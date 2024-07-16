@@ -16,8 +16,6 @@ Follow these steps to set up the project locally:
 #### Clone the repository:
 ```
 git clone https://github.com/RounakS33/movie_recommendation_system.git
-```
-```
 cd movie_recommendation_system
 ```
 #### Install the required dependencies:

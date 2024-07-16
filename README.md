@@ -14,6 +14,7 @@ Follow these steps to set up the project locally:
 
 ### Clone the repository:
 git clone https://github.com/RounakS33/movie_recommendation_system.git
+<br/>
 cd movie_recommendation_system
 
 ### Install the required dependencies:
@@ -23,7 +24,7 @@ pip install -r requirements.txt
 ### Run the Streamlit app:
 streamlit run app.py
 
-## Interact with the app: 
+### Interact with the app: 
 Enter a movie name or select from the list to get personalized recommendations.
 
 ## Technologies Used

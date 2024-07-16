@@ -1,15 +1,15 @@
 # Movie Recommendation System
 This project leverages Streamlit for the front-end interface and employs TF-IDF vectorization along with natural language processing (NLP) techniques to provide personalized movie recommendations.
 
+![Project screenshot](/mrg.png)
+
 ## Introduction:
 The Movie Recommendation System is designed to help users discover movies that match their tastes. By analyzing movie descriptions and metadata using TF-IDF vectorization, the system can suggest movies similar to those which have similar keywords or taglines.
 
 ## Features:
-Personalized Recommendations: Get movie suggestions tailored to your preferences.
+**Content-Based Filtering:** Uses TF-IDF vectorization to analyze movie descriptions and compute similarity scores.
 
-Content-Based Filtering: Uses TF-IDF vectorization to analyze movie descriptions and compute similarity scores.
-
-Interactive Interface: Built with Streamlit, providing an easy-to-use and interactive web interface.
+**Interactive Interface:** Built with Streamlit, providing an easy-to-use and interactive web interface.
 
 ## Installation:
 Follow these steps to set up the project locally:
